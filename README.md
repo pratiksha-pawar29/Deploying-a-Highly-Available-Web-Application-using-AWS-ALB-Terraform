@@ -27,7 +27,7 @@ This project demonstrates how to deploy a highly available web application on Am
 
 ## 🏗️ Architecture
 
-![AWS Architecture Diagram](architecture.png)
+![AWS Architecture Diagram](Architecture.png)
 
 User / Web Browser
 ↓
