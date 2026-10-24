@@ -24,6 +24,9 @@ This project demonstrates how to deploy a highly available web application on Am
 - Apache HTTP Server – Serves the web page.
 
 🏗️ Architecture
+## Architecture Diagram
+
+![AWS ALB & Terraform Highly Available Web Application Architecture](architecture.png)
 
 User / Web Browser
 ↓
