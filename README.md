@@ -26,7 +26,7 @@ This project demonstrates how to deploy a highly available web application on Am
 🏗️ Architecture
 ## Architecture Diagram
 
-![AWS ALB & Terraform Highly Available Web Application Architecture](architecture.png)
+architecture.png
 
 User / Web Browser
 ↓
