@@ -24,9 +24,10 @@ This project demonstrates how to deploy a highly available web application on Am
 - Apache HTTP Server – Serves the web page.
 
 🏗️ Architecture
-## Architecture Diagram
 
-architecture.png
+## 🏗️ Architecture
+
+![AWS Architecture Diagram](architecture.png)
 
 User / Web Browser
 ↓
