@@ -1,7 +1,3 @@
-# Deploying-a-Highly-Available-Web-Application-using-AWS-ALB-Terraform
-
-Copy this content into your GitHub repository’s `README.md` file for your project Deploying a Highly Available Web Application using AWS ALB & Terraform.
-
 # 🚀 Deploying a Highly Available Web Application using AWS ALB & Terraform
 
 ## 📌 Project Overview
