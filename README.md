@@ -1,4 +1,4 @@
-🚀 Deploying a Highly Available Web Application using AWS ALB & Terraform
+## 🚀 Deploying a Highly Available Web Application using AWS ALB & Terraform
 
 📌 Project Overview
 
@@ -23,7 +23,6 @@ This project demonstrates how to deploy a highly available web application on Am
 - Amazon Linux – Operating system for EC2 instances.
 - Apache HTTP Server – Serves the web page.
 
-🏗️ Architecture
 
 ## 🏗️ Architecture
 
